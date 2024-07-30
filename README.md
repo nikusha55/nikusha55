@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm nikusha55</h1>
+![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/456f7b2d-4251-47ff-bbfa-c4d441fc09d8)
+
+
 <h3 align="center">A passionate web developer from georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikusha55&label=Profile%20views&color=0e75b6&style=flat" alt="nikusha55" /> </p>
