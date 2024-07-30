@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  nikusha55</h1>
-  ![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/dd906b2d-d1bb-43c1-b3d8-aa60de8d513a)
+  [212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/dd906b2d-d1bb-43c1-b3d8-aa60de8d513a)
  
 
 
